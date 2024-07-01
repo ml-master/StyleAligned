@@ -9,6 +9,21 @@
 This code was tested with Python 3.11, [Pytorch 2.1](https://pytorch.org/)  and [Diffusers 0.16](https://github.com/huggingface/diffusers).
 
 ## Examples
+使用SDXLBase的结果：
+![alt text](style-aligned-main/doc/jq12.png)
+![alt text](style-aligned-main/doc/jq13.png)
+![alt text](style-aligned-main/doc/jq14.png)
+SDXLBase的结果在T-Sne上的可视化：
+![alt text](style-aligned-main/doc/jq15.png)
+使用ICON的结果:
+![alt text](style-aligned-main/doc/jq18.png)
+ICON的结果在T-Sne上的可视化：
+![alt text](style-aligned-main/doc/jq16.png)
+
+
+
+
+
 - See [**style_aligned_sdxl**][style_aligned] notebook for generating style aligned images using [SDXL](https://huggingface.co/docs/diffusers/using-diffusers/sdxl).
 
 ![alt text](style-aligned-main/doc/sa_example.jpg)
