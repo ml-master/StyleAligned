@@ -11,7 +11,7 @@ This code was tested with Python 3.11, [Pytorch 2.1](https://pytorch.org/)  and 
 ## Examples
 - See [**style_aligned_sdxl**][style_aligned] notebook for generating style aligned images using [SDXL](https://huggingface.co/docs/diffusers/using-diffusers/sdxl).
 
-![alt text](doc/sa_example.jpg)
+![alt text](style-aligned-main/doc/sa_example.jpg)
 
 - See [**style_aligned_transfer_sdxl**][style_aligned_transfer] notebook for generating images with a style from reference image using [SDXL](https://huggingface.co/docs/diffusers/using-diffusers/sdxl).
 
