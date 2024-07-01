@@ -15,16 +15,16 @@ This code was tested with Python 3.11, [Pytorch 2.1](https://pytorch.org/)  and 
 
 - See [**style_aligned_transfer_sdxl**][style_aligned_transfer] notebook for generating images with a style from reference image using [SDXL](https://huggingface.co/docs/diffusers/using-diffusers/sdxl).
 
-![alt text](doc/sa_transfer_example.jpeg)
+![alt text](style-aligned-main/doc/sa_transfer_example.jpeg)
 
 - See [**style_aligned_w_controlnet**][controlnet] notebook for generating style aligned and depth conditioned images using SDXL with [ControlNet-Depth](https://arxiv.org/abs/2302.05543).
 
-![alt text](doc/cn_example.jpg)
+![alt text](style-aligned-main/doc/cn_example.jpg)
 
 
 -  [**style_aligned_w_multidiffusion**][multidiffusion] can be used for generating style aligned panoramas using [SD V2](https://huggingface.co/stabilityai/stable-diffusion-2) with [MultiDiffusion](https://multidiffusion.github.io/).
 
-![alt text](doc/md_example.jpg)
+![alt text](style-aligned-main/doc/md_example.jpg)
 
 ## Demos
 Thanks to @yvrjsharma for preparing the demos: [**style aligned text to image**][style_aligned_demo],  [**ControlNet + StyleAligned**][controlnet_demo] and  [**MultiDiffusion + StyleAligned**][controlnet_demo]
